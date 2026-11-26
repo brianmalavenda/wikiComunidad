@@ -1,0 +1,16 @@
+# Cada tema apunta a una carpeta del vault. tipo: wiki (índice + subpáginas) o noticias (cronología por fecha).
+- slug: homeserver
+  titulo: Homeserver e infraestructura
+  descripcion: Guías para armar un homelab sobre Proxmox VE, red segura, almacenamiento y monitoreo.
+  carpeta: 06_Infraestructura/03_Proyectos/Wiki guia
+  tipo: wiki
+- slug: redes-descentralizadas
+  titulo: Redes descentralizadas
+  descripcion: Teoría de redes P2P y descentralizadas, como complemento de los homeservers.
+  carpeta: 07_Teoria/Redes descentralizadas
+  tipo: wiki
+- slug: periodismo
+  titulo: Notas periodísticas
+  descripcion: Notas de interés con fuente, fecha y etiquetas.
+  carpeta: 08_Periodismo
+  tipo: noticias
