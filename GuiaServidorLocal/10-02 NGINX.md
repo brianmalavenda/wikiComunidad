@@ -403,4 +403,4 @@ curl -kI https://192.168.10.80                     # por IP debe cerrar (default
 - Documentación de NGINX: `https://nginx.org/en/docs/` (proxy inverso: módulo `ngx_http_proxy_module`)
 - Let's Encrypt / Certbot: `https://certbot.eff.org/`
 - Proxmox VE - contenedores LXC y plantillas: `https://pve.proxmox.com/pve-docs` (capítulo _Linux Container_) y `pveam`
-- Notas relacionadas: [[00 Indice]] · [[02a AdGuard Home en VM Debian 12]] · [[01b Equipamiento de red]] · [[01a Recursos]] · [[06 Monitoreo]]
+- Notas relacionadas: [[00 Indice]] · [[02a AdGuard Home en VM Debian 12]] · [[01b Equipamiento de red]] · [[01a Recursos]] · [[06 Monitoreo]] ok
